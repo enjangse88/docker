@@ -1,0 +1,5 @@
+FROM alpine:3
+LABEL maintainer="Enjang Setiawan"
+
+
+CMD echo "Hello world"
